@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ubaid ur rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt='coding' width="400px" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47sbzg979oxh2guhujfhtdev3a31q6hh1stv6p7tvr&ep=v1_gifs_related&rid=giphy.gif&ct=g" autoplay>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidd-ur-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidd-ur-rehman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidd-ur-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidd-ur-rehman" autoplay /> </p>
 
 
 
