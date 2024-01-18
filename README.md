@@ -7,7 +7,7 @@
 <img align="right" alt='coding' width="400px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidd-ur-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidd-ur-rehman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubaidd-ur-rehman" alt="ubaidd-ur-rehman" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ubaidkhanx" target="blank"><img src="https://img.shields.io/twitter/follow/ubaidkhanx?logo=twitter&style=for-the-badge" alt="ubaidkhanx" /></a> </p>
 
