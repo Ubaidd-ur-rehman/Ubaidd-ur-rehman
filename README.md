@@ -3,15 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your GitHub Profile</title>
-  <style>
-    body {
-      background-color: black; /* Set your desired background color */
-      color: white; /* Set text color for better contrast */
-    }
-  </style>
 </head>
-<body>
+<body background-color: black; color: white;>
 
 <h1 align="center">Hi 👋, I'm Ubaid ur rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
