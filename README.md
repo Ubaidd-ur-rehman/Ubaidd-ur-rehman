@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body background-color: black; color: white;>
-
 <h1 align="center">Hi 👋, I'm Ubaid ur rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt='coding' width="400px" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47sbzg979oxh2guhujfhtdev3a31q6hh1stv6p7tvr&ep=v1_gifs_related&rid=giphy.gif&ct=g" autoplay>
@@ -39,7 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaidd-ur-rehman&show_icons=true&locale=en&layout=compact" alt="ubaidd-ur-rehman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaidd-ur-rehman&show_icons=true&locale=en" alt="ubaidd-ur-rehman" /></p>
-</body>
-</html>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidd-ur-rehman&" alt="ubaidd-ur-rehman" /></p>
